@@ -72,6 +72,14 @@ video::-webkit-media-controls-volume-slider {
     padding-bottom: 0;
 }
 
+.circle-image {
+    display: block;
+    height: 9.5rem;
+    width: 9.5rem;
+    margin-top: 1.2rem;
+    margin-bottom: 2.6rem;
+}
+
 .quote {
     padding: 0 1rem;
     margin-left: 0;
