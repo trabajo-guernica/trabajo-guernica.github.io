@@ -102,6 +102,16 @@ video::-webkit-media-controls-volume-slider {
     background-image: linear-gradient(120deg, #eeeeff, #eeffee);
 }
 
+.image-footer {
+    display: block;
+    margin-top: 1.0rem;
+    font-size: 0.9rem;
+    color: #404b59;
+    line-height: 1.6;
+    font-family: "Quicksand", Light;
+    text-align: center; 
+}
+
 .center {
     float: center;
     align-items: center;
@@ -123,7 +133,7 @@ video::-webkit-media-controls-volume-slider {
 }
 
 p {
-    color: #404b59;
+    color: #303b49;
     text-align: left;
     padding-top: 1.1rem;
     padding-bottom: 1.1rem;
