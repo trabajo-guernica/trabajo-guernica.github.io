@@ -104,7 +104,8 @@ video::-webkit-media-controls-volume-slider {
 
 .image-footer {
     display: block;
-    margin-top: 1.0rem;
+    margin-top: 1.6rem;
+    margin-bottom: 0.4rem;
     font-size: 0.9rem;
     color: #404b59;
     line-height: 1.6;
