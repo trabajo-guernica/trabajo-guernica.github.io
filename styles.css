@@ -53,10 +53,11 @@ img {
     -webkit-transition-duration: 0.3s;
 }
 
-video {
+iframe {
     display: block;
     margin: 0 auto;
-    width: auto;
+    width: 60%;
+    height: 30rem;
 }
 
 /*
@@ -65,7 +66,7 @@ video::-webkit-media-controls-timeline {
     padding-bottom: 0;
     margin-bottom: 20px;
 }
-*/
+
 
 video::-webkit-media-controls-volume-slider {
     background-color: #f00;
@@ -73,6 +74,7 @@ video::-webkit-media-controls-volume-slider {
     margin-top: 20px;
     padding-bottom: 0;
 }
+*/
 
 .circle-image {
     display: block;
